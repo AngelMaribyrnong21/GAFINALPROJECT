@@ -1,0 +1,154 @@
+/* 
+purples #E040FB #6A1B9A
+greens #B2FF59 #D50000
+pinks #FF1744 #AEEA00
+*/
+
+h1 {
+    color: lightgreen;
+    background-color:  #E040FB; 
+    font-family: lato, roboto, sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 57px;
+    text-align: center;
+  }
+  
+  
+  h2 {
+    color: #6A1B9A;
+    font-family: roboto, lato, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+  
+  h3 {
+    color:#FF1744;
+    font-family: lato, roboto, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+  }
+  
+  
+  button {
+    color: purple;
+    background-color: lightgreen;
+  }
+  
+  .navbarLPC img {
+  left: 0%;
+  right: 58.89%;
+  bottom: 0%;
+    width: 148px;
+    height: 92px;
+    top: 7px;
+  }
+  
+  .invite {
+    box-sizing: border-box;
+    height: 200px;
+    width: 100%;
+    background-color: lightgreen;
+    border-style: solid;
+    border-color: pink;
+    border-width: 20px;
+    padding: 0 20px 0px 20px;
+  }
+  
+  .comejoin img {
+  width: 100%;
+  height: 250px;
+  left: 9px;
+  top: 252px;
+  }
+  
+  .learn img {
+  width: 147px;
+  height: 174px;
+  left: 187px;
+  top: 1059px;
+  }
+  
+  .play img {
+  width: 148px;
+  height: 193px;
+  left: 176px;
+  top: 1270px; 
+  }
+  
+  .vocationalpaths img {
+  width: 100%;
+  height: 204px;
+  left: 58px;
+  top: 1700px;
+  }
+  .informationpanel {
+  box-sizing: border-box;
+  background-color: #E1BEE7;
+  width: 100%;
+  height: 570px;
+  border-style: solid;
+  border-color: lightgreen;
+  border-width: 15px;
+  padding: 0 10px 10px 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  }
+  .copyright {
+    color: lightgreen;
+    font-weight: bold;
+    background-color: #E040FB; 
+    line-height: 2;
+  }
+  
+  
+  
+  input {
+    color: magenta;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    color: lightgreen;
+    font-weight: bold;
+    background-color: #E040FB;
+  }
+  
+  .users {
+  box-sizing: border-box;
+  background-color: pink;
+  width: 100%;
+  height: 230px;
+  border-style: solid;
+  border-color: lightgreen;
+  border-width: 15px;
+  padding: 0 10px 10px 10px;
+  font-family: Lato;
+  font-weight: normal;
+  font-size: 16px;
+  
+    
+  }
+    
+  .enquire {
+  box-sizing: border-box;
+  background-color: pink;
+  width: 100%;
+  height: 620px;
+  border-style: solid;
+  border-color: lightgreen;
+  border-width: 15px;
+  padding: 0 10px 10px 10px;
+  font-family: Lato;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  }
+    
+      
+      
